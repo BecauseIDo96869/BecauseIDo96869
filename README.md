@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BecauseIDo96869
+- 👋 Hi, I’m @BecauseIDo
 - 👀 I’m interested in learning security for operational technology OT
 - 🌱 I’m currently refreshing my C coding skills
 - 💞️ I’m looking to collaborate on documentation for SCADA security tools
